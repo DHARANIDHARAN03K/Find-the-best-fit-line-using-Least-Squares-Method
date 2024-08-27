@@ -1,4 +1,9 @@
 # Implementation of Univariate Linear Regression
+```Program to implement univariate Linear Regression to
+fit a straight line using least squares.
+Developed by: DHARANI DHARAN K
+RegisterNumber: 212223040036
+```
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
